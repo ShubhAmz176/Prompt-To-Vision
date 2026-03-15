@@ -1,0 +1,7 @@
+COMMANDS TO RUN
+
+cd BACKEND 
+python app.py
+
+
+future skill prime-- m@107Shubham
